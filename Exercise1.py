@@ -1,9 +1,5 @@
 def exercise_1_basics():
-    """
-    Goal: Practice basic syntax and string formatting.
-    Task: Create variables for a course name and a number of students.
-    Print a sentence using an f-string.
-    """
+
     course = "CMP 269"
     students = 30
 
@@ -11,13 +7,7 @@ def exercise_1_basics():
 
 
 def exercise_2_collections():
-    """
-    Goal: Manipulate lists and dictionaries.
-    Task:
-    1. Create a list of 5 colors.
-    2. Add a 6th color to the end.
-    3. Create a dictionary with keys 'name' and 'gpa'.
-    """
+
     colors = ["red", "blue", "green", "yellow", "purple"]
 
     # Add a 6th color
@@ -33,11 +23,7 @@ def exercise_2_collections():
 
 
 def exercise_3_logic():
-    """
-    Goal: Use loops and conditionals.
-    Task: Iterate through a list of numbers.
-    If a number is even, add it to a new list called 'evens'.
-    """
+
     numbers = [1, 2, 3, 4, 5, 6]
     evens = []
 
